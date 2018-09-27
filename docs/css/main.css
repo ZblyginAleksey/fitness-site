@@ -1,0 +1,127 @@
+html, body {
+	height: 100%;
+	margin: 10px;
+	padding: 0;
+	line-height: 1.4;
+	
+	} 
+	
+h1 {
+	font-family: 'Vollkorn', serif;
+	color: #FFF;
+	text-align: center;			
+}
+
+h2, h3, h4 {
+	font-family: 'Lobster', cursive;
+	color: #FFF;
+	text-align: center;
+	font-size: 28px;
+}
+
+ .prog{
+	font-family: 'Lobster', cursive;
+	color: #c69;
+	text-align: center;
+	font-size: 32px;
+}
+
+p {
+	color: #FFF;
+	text-align: center;
+	font-family: Arial;
+}
+
+.navigation li {
+	list-style-type: none;
+	font-family: 'Vollkorn', serif;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #f00
+}
+	
+.gyms {
+	text-align: center;
+	-webkit-border-radius: 10px;
+	        border-radius: 10px;
+}
+
+.video {
+	border: none;
+	text-align: center;
+}
+
+.booty {
+	font-weight: 700;
+}
+
+.coach {
+	text-align: center;
+		width: 200px;
+		height: auto;
+}
+
+.group {
+	width: 500px;
+	height: 300px;
+}
+
+.table {
+	text-align: center;
+	margin-left: 400px;
+}
+
+.price {
+	border: 3px solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+tr, th, td {
+	border: 2px solid;
+}
+
+.gymgroup {
+	background-color: #00FF7F;
+}
+
+.unlim {
+	background-color:#FFEFD5;
+}
+
+.prim {
+	background-color: #FFA07A;
+}
+
+tr {
+	background-color: #FFF;
+}
+
+.forms {
+	text-align: center;
+}
+
+.inform{
+	color: #FFF;
+}
+
+iframe {
+	border: 0;
+}
+
+label {
+	color: #FFF;
+	font-weight: 700;
+}
+
+input:active {
+	background-color: red;
+}
